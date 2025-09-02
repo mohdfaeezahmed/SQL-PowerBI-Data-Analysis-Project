@@ -33,37 +33,43 @@ Distribution of sales across countries
 Most-used product categories across states
 8. Regional Sub-Category Trends
 Popular sub-categories in various regions
+
+
 Dataset Columns
-Column Name	Description
-order_id	Unique identifier for each order
-order_date	Order placement date
-ship_date	Date of shipping
-ship_mode	Shipping method used
-customer_name	Name of the customer
-segment	Customer segment
-state	U.S. state of the customer
-country	Country of the customer
-market	Market category
-region	Region of the order
-product_id	Unique product ID
-category	Main product category
-sub_category	Sub-category of the product
-product_name	Name of the product
-sales	Revenue from the sale
-quantity	Number of items sold
-discount	Discount applied
-profit	Profit earned
-shipping_cost	Cost incurred during shipping
-order_priority	Priority level of the order
-year	Year in which the order was placed
-🛠 Tools & Technologies Used
+Column Name	| Description
+order_id -	Unique identifier for each order
+order_date - Order placement date
+ship_date - 	Date of shipping
+ship_mode -	Shipping method used
+customer_name -	Name of the customer
+segment	- Customer segment
+state	- U.S. state of the customer
+country	- Country of the customer
+market	- Market category
+region -	Region of the order
+product_id -	Unique product ID
+category	- Main product category
+sub_category -	Sub-category of the product
+product_name -	Name of the product
+sales	- Revenue from the sale
+quantity -	Number of items sold
+discount	- Discount applied
+profit	- Profit earned
+shipping_cost	- Cost incurred during shipping
+order_priority	- Priority level of the order
+year	- Year in which the order was placed
+
+
+Tools & Technologies Used
 SQL — Data cleaning and analysis
 Power BI — Interactive data visualizations and dashboards
 Microsoft Word — Business documentation
+
 Thank You!
-Thank you for exploring this portfolio project!
+Thank you for exploring my portfolio project!
 Please refer to the attached SQL scripts and Power BI dashboard for a deeper dive into the insights.
 
-About the Author
 This project was created to demonstrate business analytics skills and the ability to turn raw data into actionable insights.
 For collaborations or feedback, feel free to connect via LinkedIn or raise an issue on this repo.
+
+
